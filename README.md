@@ -11,3 +11,8 @@ Le mot de passe n'est jamais envoyé en clair. Le programme utilise la technique
 1. Hash du mot de passe en SHA-1
 2. Envoi des 5 premiers caractères uniquement à l'API
 3. Vérification locale du hash complet
+
+## Installation
+```bash
+git clone https://github.com/SOYA6A/password-breach-checker.git
+cd password-breach-checker
