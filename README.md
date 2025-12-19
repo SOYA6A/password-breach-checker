@@ -19,3 +19,7 @@ cd password-breach-checker
 
 # Installer les dépendances
 pip3 install requests
+
+# Lancer le programme
+python3 password-breach-checker.py
+```
