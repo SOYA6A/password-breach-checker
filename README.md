@@ -16,3 +16,6 @@ Le mot de passe n'est jamais envoyé en clair. Le programme utilise la technique
 ```bash
 git clone https://github.com/SOYA6A/password-breach-checker.git
 cd password-breach-checker
+
+# Installer les dépendances
+pip3 install requests
