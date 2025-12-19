@@ -23,3 +23,7 @@ pip3 install requests
 # Lancer le programme
 python3 password-breach-checker.py
 ```
+## Utilisation
+```bash
+python3 password-breach-checker.py
+```
