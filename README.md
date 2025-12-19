@@ -27,3 +27,4 @@ python3 password-breach-checker.py
 ```bash
 python3 password-breach-checker.py
 ```
+Le programme demande un mot de passe à vérifier et affiche :
