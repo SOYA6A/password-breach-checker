@@ -36,3 +36,4 @@ Le programme demande un mot de passe à vérifier et affiche :
 🔐 VÉRIFICATEUR DE MOT DE PASSE
 ========================================
 Entrez un mot de passe à vérifier : password
+⏳ Vérification en cours...
