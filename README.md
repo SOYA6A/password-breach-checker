@@ -37,3 +37,5 @@ Le programme demande un mot de passe à vérifier et affiche :
 ========================================
 Entrez un mot de passe à vérifier : password
 ⏳ Vérification en cours...
+========================================
+⚠️ DANGER ! Ce mot de passe a été volé 9,545,824 fois !
