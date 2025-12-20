@@ -30,3 +30,8 @@ python3 password-breach-checker.py
 Le programme demande un mot de passe à vérifier et affiche :
 - Si le mot de passe a été compromis
 - Le nombre de fois qu'il apparaît dans les data breaches
+
+### Exemple
+```
+🔐 VÉRIFICATEUR DE MOT DE PASSE
+========================================
