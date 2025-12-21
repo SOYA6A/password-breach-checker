@@ -44,3 +44,6 @@ Entrez un mot de passe à vérifier : password
 ```
 <img width="1380" height="429" alt="Screenshot 2025-12-19 at 23 20 41" src="https://github.com/user-attachments/assets/5dbdf4b8-fbea-42e1-bb2a-9594548dd28c" />
 
+## Ce que j'ai appris
+
+- Utilisation d'API REST avec Python
