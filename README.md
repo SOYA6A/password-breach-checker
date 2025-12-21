@@ -47,3 +47,4 @@ Entrez un mot de passe à vérifier : password
 ## Ce que j'ai appris
 
 - Utilisation d'API REST avec Python
+- Technique k-anonymity pour préserver la vie privée
