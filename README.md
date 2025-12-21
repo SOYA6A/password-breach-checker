@@ -48,3 +48,4 @@ Entrez un mot de passe à vérifier : password
 
 - Utilisation d'API REST avec Python
 - Technique k-anonymity pour préserver la vie privée
+- L'importance des mots de passe forts
