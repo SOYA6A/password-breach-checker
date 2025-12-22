@@ -32,16 +32,7 @@ Le programme demande un mot de passe à vérifier et affiche :
 - Le nombre de fois qu'il apparaît dans les data breaches
 
 ### Exemple
-```
-🔐 VÉRIFICATEUR DE MOT DE PASSE
-========================================
-Entrez un mot de passe à vérifier : password
-⏳ Vérification en cours...
-========================================
-⚠️ DANGER ! Ce mot de passe a été volé 9,545,824 fois !
-🚨 NE L'UTILISEZ PAS !
-========================================
-```
+
 <img width="1380" height="429" alt="Screenshot 2025-12-19 at 23 20 41" src="https://github.com/user-attachments/assets/5dbdf4b8-fbea-42e1-bb2a-9594548dd28c" />
 
 ## Ce que j'ai appris
